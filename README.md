@@ -1,7 +1,7 @@
 # ⚠️ Not maintained!
 I no longer use hardware in this configuration; the EFI is valid up to the version listed below, but I no longer plan to maintain it.
 
-# MyEFI
+# Ryzen3600-6600xt-EFI
 My Hackintosh Spec: Ryzen 3600, Radeon 6600xt
 
 ## How to build?
