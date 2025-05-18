@@ -1,3 +1,6 @@
+# ⚠️ Not maintained!
+I no longer use hardware in this configuration; the EFI is valid up to the version listed below, but I no longer plan to maintain it.
+
 # MyEFI
 My Hackintosh Spec: Ryzen 3600, Radeon 6600xt
 
@@ -17,7 +20,7 @@ Now enjoy your fun hackintosh!
 
 ## Information
 ```
-OpenCorePkg: 1.0.0
+OpenCorePkg: 1.0.1
 
 My Desktop Spec:
     - CPU: AMD Ryzen 3600
@@ -26,4 +29,4 @@ My Desktop Spec:
 ```
 
 ## Status
-> You can use this!
+> You can use this, But not maintained currently
